@@ -1,11 +1,13 @@
+# Import packages
 import numpy as np
 import pandas as pd
-
-# Import packages
+import time 
 import requests
 import tweepy
-from time import sleep
+
 from AutTwitter import *
+#This file contains the credentials to the Twitter API as well as the PATH to the different files.
+
 
 def get_weather_number(lat,lon,daystring,timestring,verbose=1):
 	#This function connects to the SMHI API gives it geo coordinates and 
