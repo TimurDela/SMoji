@@ -1,5 +1,5 @@
 # SMoji
-A Twitter bot that shows the weather in Sweden as a map of emojis. Inspired by @TweeteoFrance
+A Twitter bot ([SMoji](https://twitter.com/_SMoji)) that shows the weather in Sweden as a map of emojis. Inspired by @TweeteoFrance
 
 —————————————————————————————————————————————————————————————————————————————————————————————
 
